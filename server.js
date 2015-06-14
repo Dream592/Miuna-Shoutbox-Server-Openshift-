@@ -2,6 +2,7 @@
 
 // set up ======================================================================
 // get all the tools we need
+var origin = 'www.denemeforum2.hol.es:80';	
 var express = require('express');
 var cors = require('cors');
 var app = express();
